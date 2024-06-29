@@ -1,0 +1,602 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidos": "Pérez García",
+      "numero_seguridad_social": "123-45-6789"
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellidos": "López Martínez",
+      "numero_seguridad_social": "987-65-4321"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellidos": "Ramírez Sánchez",
+      "numero_seguridad_social": "456-78-9012"
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellidos": "Morales Fernández",
+      "numero_seguridad_social": "654-32-1098"
+    },
+    {
+      "id": 5,
+      "nombre": "Luis",
+      "apellidos": "Gómez Rodríguez",
+      "numero_seguridad_social": "321-45-6789"
+    },
+    {
+      "id": 6,
+      "nombre": "Laura",
+      "apellidos": "Hernández Ruiz",
+      "numero_seguridad_social": "789-12-3456"
+    },
+    {
+      "id": 7,
+      "nombre": "David",
+      "apellidos": "Martínez López",
+      "numero_seguridad_social": "234-56-7890"
+    },
+    {
+      "id": 8,
+      "nombre": "Sara",
+      "apellidos": "González Pérez",
+      "numero_seguridad_social": "987-65-4321"
+    },
+    {
+      "id": 9,
+      "nombre": "Diego",
+      "apellidos": "Fernández Gómez",
+      "numero_seguridad_social": "654-32-1098"
+    },
+    {
+      "id": 10,
+      "nombre": "Eva",
+      "apellidos": "Ramírez Fernández",
+      "numero_seguridad_social": "789-12-3456"
+    },
+    {
+      "id": 11,
+      "nombre": "Jorge",
+      "apellidos": "Díaz Morales",
+      "numero_seguridad_social": "123-45-6789"
+    },
+    {
+      "id": 12,
+      "nombre": "Elena",
+      "apellidos": "Sánchez Torres",
+      "numero_seguridad_social": "456-78-9012"
+    },
+    {
+      "id": 13,
+      "nombre": "Raúl",
+      "apellidos": "Ruiz García",
+      "numero_seguridad_social": "234-56-7890"
+    },
+    {
+      "id": 14,
+      "nombre": "Natalia",
+      "apellidos": "Jiménez Castillo",
+      "numero_seguridad_social": "321-45-6789"
+    },
+    {
+      "id": 15,
+      "nombre": "Mario",
+      "apellidos": "Hidalgo Rojas",
+      "numero_seguridad_social": "456-78-9012"
+    },
+    {
+      "id": 16,
+      "nombre": "Cristina",
+      "apellidos": "López Díaz",
+      "numero_seguridad_social": "654-32-1098"
+    },
+    {
+      "id": 17,
+      "nombre": "Andrés",
+      "apellidos": "Vargas Gómez",
+      "numero_seguridad_social": "789-12-3456"
+    },
+    {
+      "id": 18,
+      "nombre": "Marta",
+      "apellidos": "Fuentes Pérez",
+      "numero_seguridad_social": "234-56-7890"
+    },
+    {
+      "id": 19,
+      "nombre": "Sergio",
+      "apellidos": "Campos García",
+      "numero_seguridad_social": "123-45-6789"
+    },
+    {
+      "id": 20,
+      "nombre": "Patricia",
+      "apellidos": "Ortega Ruiz",
+      "numero_seguridad_social": "456-78-9012"
+    },
+    {
+      "id": 21,
+      "nombre": "Rubén",
+      "apellidos": "Castillo Hernández",
+      "numero_seguridad_social": "654-32-1098"
+    },
+    {
+      "id": 22,
+      "nombre": "Rocío",
+      "apellidos": "Santos López",
+      "numero_seguridad_social": "987-65-4321"
+    },
+    {
+      "id": 23,
+      "nombre": "Pablo",
+      "apellidos": "Vega Martínez",
+      "numero_seguridad_social": "321-45-6789"
+    },
+    {
+      "id": 24,
+      "nombre": "Sonia",
+      "apellidos": "Núñez Sánchez",
+      "numero_seguridad_social": "234-56-7890"
+    },
+    {
+      "id": 25,
+      "nombre": "Antonio",
+      "apellidos": "Ramos Torres",
+      "numero_seguridad_social": "789-12-3456"
+    },
+    {
+      "id": 26,
+      "nombre": "Isabel",
+      "apellidos": "Romero Morales",
+      "numero_seguridad_social": "654-32-1098"
+    },
+    {
+      "id": 27,
+      "nombre": "Victor",
+      "apellidos": "Martín Ortiz",
+      "numero_seguridad_social": "987-65-4321"
+    },
+    {
+      "id": 28,
+      "nombre": "Mónica",
+      "apellidos": "Ibáñez Rivas",
+      "numero_seguridad_social": "321-45-6789"
+    },
+    {
+      "id": 29,
+      "nombre": "Alejandro",
+      "apellidos": "Flores Ramírez",
+      "numero_seguridad_social": "456-78-9012"
+    },
+    {
+      "id": 30,
+      "nombre": "Lucía",
+      "apellidos": "Duarte Castillo",
+      "numero_seguridad_social": "789-12-3456"
+    }
+  ],
+  "vehiculos": [
+    {
+      "id": 1,
+      "marca": "Toyota",
+      "modelo": "Corolla"
+    },
+    {
+      "id": 2,
+      "marca": "Honda",
+      "modelo": "Civic"
+    },
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "Focus"
+    },
+    {
+      "id": 4,
+      "marca": "Renault",
+      "modelo": "Clio"
+    },
+    {
+      "id": 5,
+      "marca": "Nissan",
+      "modelo": "Qashqai"
+    },
+    {
+      "id": 6,
+      "marca": "Hyundai",
+      "modelo": "Tucson"
+    }
+  ],
+  "alquileres": [
+    {
+      "id_cliente": 1,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-07-01",
+      "fecha_fin": "2024-07-03"
+    },
+    {
+      "id_cliente": 2,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-07-02",
+      "fecha_fin": "2024-07-05"
+    },
+    {
+      "id_cliente": 3,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-07-03",
+      "fecha_fin": "2024-07-06"
+    },
+    {
+      "id_cliente": 4,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-07-04",
+      "fecha_fin": "2024-07-07"
+    },
+    {
+      "id_cliente": 5,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-07-05",
+      "fecha_fin": "2024-07-09"
+    },
+    {
+      "id_cliente": 6,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-07-06",
+      "fecha_fin": "2024-07-08"
+    },
+    {
+      "id_cliente": 7,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-07-07",
+      "fecha_fin": "2024-07-10"
+    },
+    {
+      "id_cliente": 8,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-07-08",
+      "fecha_fin": "2024-07-11"
+    },
+    {
+      "id_cliente": 9,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-07-09",
+      "fecha_fin": "2024-07-12"
+    },
+    {
+      "id_cliente": 10,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-07-10",
+      "fecha_fin": "2024-07-13"
+    },
+    {
+      "id_cliente": 11,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-07-11",
+      "fecha_fin": "2024-07-15"
+    },
+    {
+      "id_cliente": 12,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-07-12",
+      "fecha_fin": "2024-07-14"
+    },
+    {
+      "id_cliente": 13,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-07-13",
+      "fecha_fin": "2024-07-16"
+    },
+    {
+      "id_cliente": 14,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-07-14",
+      "fecha_fin": "2024-07-17"
+    },
+    {
+      "id_cliente": 15,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-07-15",
+      "fecha_fin": "2024-07-18"
+    },
+    {
+      "id_cliente": 16,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-07-16",
+      "fecha_fin": "2024-07-19"
+    },
+    {
+      "id_cliente": 17,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-07-17",
+      "fecha_fin": "2024-07-21"
+    },
+    {
+      "id_cliente": 18,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-07-18",
+      "fecha_fin": "2024-07-20"
+    },
+    {
+      "id_cliente": 19,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-07-19",
+      "fecha_fin": "2024-07-22"
+    },
+    {
+      "id_cliente": 20,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-07-20",
+      "fecha_fin": "2024-07-23"
+    },
+    {
+      "id_cliente": 21,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-07-21",
+      "fecha_fin": "2024-07-24"
+    },
+    {
+      "id_cliente": 22,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-07-22",
+      "fecha_fin": "2024-07-25"
+    },
+    {
+      "id_cliente": 23,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-07-23",
+      "fecha_fin": "2024-07-27"
+    },
+    {
+      "id_cliente": 24,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-07-24",
+      "fecha_fin": "2024-07-26"
+    },
+    {
+      "id_cliente": 25,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-07-25",
+      "fecha_fin": "2024-07-28"
+    },
+    {
+      "id_cliente": 26,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-07-26",
+      "fecha_fin": "2024-07-29"
+    },
+    {
+      "id_cliente": 27,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-07-27",
+      "fecha_fin": "2024-07-30"
+    },
+    {
+      "id_cliente": 28,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-07-28",
+      "fecha_fin": "2024-07-31"
+    },
+    {
+      "id_cliente": 29,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-07-29",
+      "fecha_fin": "2024-08-02"
+    },
+    {
+      "id_cliente": 30,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-07-30",
+      "fecha_fin": "2024-08-01"
+    },
+    {
+      "id_cliente": 1,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-07-31",
+      "fecha_fin": "2024-08-03"
+    },
+    {
+      "id_cliente": 2,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-08-01",
+      "fecha_fin": "2024-08-04"
+    },
+    {
+      "id_cliente": 3,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-08-02",
+      "fecha_fin": "2024-08-05"
+    },
+    {
+      "id_cliente": 4,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-08-03",
+      "fecha_fin": "2024-08-06"
+    },
+    {
+      "id_cliente": 5,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-08-04",
+      "fecha_fin": "2024-08-08"
+    },
+    {
+      "id_cliente": 6,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-08-05",
+      "fecha_fin": "2024-08-07"
+    },
+    {
+      "id_cliente": 7,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-08-06",
+      "fecha_fin": "2024-08-09"
+    },
+    {
+      "id_cliente": 8,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-08-07",
+      "fecha_fin": "2024-08-10"
+    },
+    {
+      "id_cliente": 9,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-08-08",
+      "fecha_fin": "2024-08-11"
+    },
+    {
+      "id_cliente": 10,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-08-09",
+      "fecha_fin": "2024-08-13"
+    },
+    {
+      "id_cliente": 11,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-08-10",
+      "fecha_fin": "2024-08-12"
+    },
+    {
+      "id_cliente": 12,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-08-11",
+      "fecha_fin": "2024-08-14"
+    },
+    {
+      "id_cliente": 13,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-08-12",
+      "fecha_fin": "2024-08-15"
+    },
+    {
+      "id_cliente": 14,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-08-13",
+      "fecha_fin": "2024-08-16"
+    },
+    {
+      "id_cliente": 15,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-08-14",
+      "fecha_fin": "2024-08-17"
+    },
+    {
+      "id_cliente": 16,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-08-15",
+      "fecha_fin": "2024-08-19"
+    },
+    {
+      "id_cliente": 17,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-08-16",
+      "fecha_fin": "2024-08-18"
+    },
+    {
+      "id_cliente": 18,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-08-17",
+      "fecha_fin": "2024-08-20"
+    },
+    {
+      "id_cliente": 19,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-08-18",
+      "fecha_fin": "2024-08-21"
+    },
+    {
+      "id_cliente": 20,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-08-19",
+      "fecha_fin": "2024-08-22"
+    },
+    {
+      "id_cliente": 21,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-08-20",
+      "fecha_fin": "2024-08-23"
+    },
+    {
+      "id_cliente": 22,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-08-21",
+      "fecha_fin": "2024-08-25"
+    },
+    {
+      "id_cliente": 23,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-08-22",
+      "fecha_fin": "2024-08-24"
+    },
+    {
+      "id_cliente": 24,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-08-23",
+      "fecha_fin": "2024-08-26"
+    },
+    {
+      "id_cliente": 25,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-08-24",
+      "fecha_fin": "2024-08-27"
+    },
+    {
+      "id_cliente": 26,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-08-25",
+      "fecha_fin": "2024-08-28"
+    },
+    {
+      "id_cliente": 27,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-08-26",
+      "fecha_fin": "2024-08-29"
+    },
+    {
+      "id_cliente": 28,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-08-27",
+      "fecha_fin": "2024-08-31"
+    },
+    {
+      "id_cliente": 29,
+      "id_vehiculo": 6,
+      "fecha_inicio": "2024-08-28",
+      "fecha_fin": "2024-08-30"
+    },
+    {
+      "id_cliente": 30,
+      "id_vehiculo": 1,
+      "fecha_inicio": "2024-08-29",
+      "fecha_fin": "2024-09-01"
+    },
+    {
+      "id_cliente": 1,
+      "id_vehiculo": 2,
+      "fecha_inicio": "2024-08-30",
+      "fecha_fin": "2024-09-02"
+    },
+    {
+      "id_cliente": 2,
+      "id_vehiculo": 3,
+      "fecha_inicio": "2024-08-31",
+      "fecha_fin": "2024-09-03"
+    },
+    {
+      "id_cliente": 3,
+      "id_vehiculo": 4,
+      "fecha_inicio": "2024-09-01",
+      "fecha_fin": "2024-09-04"
+    },
+    {
+      "id_cliente": 4,
+      "id_vehiculo": 5,
+      "fecha_inicio": "2024-09-02",
+      "fecha_fin": "2024-09-04"
+    }
+  ]
+}
