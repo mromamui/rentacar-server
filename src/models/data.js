@@ -5,26 +5,27 @@ import data from './data.json' assert { type: 'json' }
 // NOTA: Estas funciones únicamente deben exportar los datos del JSON
 //  sin procesarlos, como si de una BBDD se tratase
 
-export function getAlumnos() {
-    return data.alumnos
+export function getClientes() {
+    return data.clientes
 }
 
-export function addAlumno(alumno) {
+export function addClientes(cliente) {
     // TODO
 }
 
-export function getProfesores() {
-    return data.profesores
+export function getVehiculos() {
+    return data.vehiculos
 }
 
-export function addProfesor(profesor) {
+export function addVehiculos(vehiculo) {
     // TODO
 }
 
-export function getAsignaturas() {
-    return data.asignaturas
+export function getAlquileres() {
+    return data.alquileres
+
 }
 
-export function addAsignatura(asignatura) {
+export function addAlquileres(alquiler) {
     // TODO
 }

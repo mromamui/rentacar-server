@@ -1,8 +1,10 @@
-'use strict'
+    'use strict'
 
 export default function errorsMiddleware(req, res) {
-    console.debug(`${req.method} ${req.originalUrl} ha fallado`)
+    console.debug(${req.method} ${req.originalUrl} //ha fallado)
     res
         .status(404)
-        .send(`${req.method} ${req.originalUrl} no encontrado`)
+        .send(${req.method} ${req.originalUrl} //no encontrado)
 }
+
+
